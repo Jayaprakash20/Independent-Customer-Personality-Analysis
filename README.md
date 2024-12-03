@@ -27,19 +27,6 @@ It contains customer information to help businesses gain deeper insights into cu
 
 These insights guide targeted marketing strategies, including personalized offers and cross-selling high-value products.
 
-## Usage Instructions  
-1. **Prerequisites**:  
-   - Install R (latest version).  
-   - Required libraries: `ggplot2`, `dplyr`, `readr`.  
-
-2. **Steps to Run**:  
-   - Clone the repository:  
-     ```bash
-     git clone https://github.com/your-username/customer-personality-analysis.git
-     ```
-   - Open the R script `analysis.R` in RStudio or another IDE.  
-   - Run the code to reproduce the results or adapt it to your dataset.  
-
 ## License  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
